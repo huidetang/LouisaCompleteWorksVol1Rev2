@@ -1,17 +1,28 @@
 PREDEF:
-  - preface.re
+  - dedication.re
 
 CHAPS:
-  - ReVIEW独自マークアップ言語:
-    - how-to-use.re
-  - Markdown:
-    - markdown.re
-  - Microsoft word:
-    - word-ref.re
-    - custom-reference.re
+  - 小説作品:
+    - saigo-no-maru.re
+    - seiya.re
+    - kibou.re
+    - fukkatsu.re
+    - yuki-no-seida.re
+    - wii-sama.re
+    - kabe.re
+    - rusk.re
+    - yamai.re
+    - wakimichi.re
+  - 漢詩作品:
+    - christmas.re
+  - 詩:
+    - tomoni.re
+    - bakhmut.re
+  - ウクライナ三部作:
+    - ukraine.re
 
 APPENDIX:
 
 POSTDEF:
   - postscript.re
-  - bib.re
+

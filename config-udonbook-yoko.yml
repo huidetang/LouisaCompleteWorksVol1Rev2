@@ -11,7 +11,7 @@ direction: "ltr"
 cover: false
 
 # 大扉は画像で作る
-titlefile: title.xhtml
+# titlefile: title.xhtml
 
 # 奥付は自作したXMTMLファイルを使う
 colophon: colophon.xhtml
