@@ -3,13 +3,13 @@
 inherit: ["config.yml"]
 
 # 印刷所の名前を設定する
-prt: ○○印刷所
+prt: pixivFactory
 
 # 縦書き
 direction: "rtl"
 
 # 表紙と裏表紙は作らない
-cover: false
+cover: title.xhtml
 
 # 大扉は画像で作る
 # titlefile: title.xhtml
